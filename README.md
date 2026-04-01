@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey there! I'm waxly 👋
 
-<!--
-**WAXLYY/WAXLYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Writing code, consuming caffeine, and adopting bugs as pets.
 
-Here are some ideas to get you started:
+I’m usually at my keyboard, busy turning code I don't understand why it's not working into code I don't understand why it IS working.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Some "Technical" Details About Me
+
+| Feature | Status |
+| :--- | :--- |
+| **Eye Color** | Monitor Glow Gray |
+| **Sleep Schedule** | `404 Not Found` |
+| **Character** | `git commit -m "final-v2-final-for-real-this-time"` |
+| **Favorite Activity** | Breaking working code and trying to fix it again |
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=waxly&show_icons=true&theme=radical" alt="waxly github stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=waxly&theme=radical" alt="waxly streak" />
+</p>
+
+---
+
+### 🕹️ Random Facts
+
+* ⚡ **Fact 1:** If my code works on the first try, there is definitely a huge hidden bug in it.
+* ☕ **Fact 2:** Turning it off and on again is still my favorite debugging method.
+* 🔍 **Fact 3:** If Stack Overflow didn't exist, I'd probably be a gardener by now.
+
+---
+
+### 📫 Get in Touch!
+
+I don't use LinkedIn, but you can find me wandering around here or catch me on Discord:
+
+**Discord:** `waxly_` *(Kendi Discord adını buraya yazabilirsin)*
+
+---
+
+### 👁️ Profile Views
+![Views](https://komarev.com/ghpvc/?username=waxly&color=red&style=flat-square&label=PROFILE+VIEWS)
