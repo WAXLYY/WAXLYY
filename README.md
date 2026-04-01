@@ -17,15 +17,6 @@ I’m usually at my keyboard, busy turning code I don't understand why it's not 
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=waxly&show_icons=true&theme=radical" alt="waxly github stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waxly&theme=radical" alt="waxly streak" />
-</p>
-
----
-
 ### 🕹️ Random Facts
 
 * ⚡ **Fact 1:** If my code works on the first try, there is definitely a huge hidden bug in it.
@@ -36,9 +27,9 @@ I’m usually at my keyboard, busy turning code I don't understand why it's not 
 
 ### 📫 Get in Touch!
 
-I don't use LinkedIn, but you can find me wandering around here or catch me on Discord:
+I'm not on LinkedIn, but you can find me wandering around here or catch me on Discord:
 
-**Discord:** `waxly_` *(Kendi Discord adını buraya yazabilirsin)*
+**Discord:** `waxly_` *(Burayı kendi Discord adınla güncellemeyi unutma!)*
 
 ---
 
