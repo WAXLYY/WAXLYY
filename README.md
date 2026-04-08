@@ -32,7 +32,7 @@ I’m usually at my keyboard, busy turning code I don't understand why it's not 
 
 I'm not on LinkedIn, but you can find me wandering around here or catch me on Discord:
 
-**Discord:** `waxly_` *(Burayı kendi Discord adınla güncellemeyi unutma!)*
+**Discord:** `waxly_` 
 
 ---
 
